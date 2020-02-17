@@ -1,0 +1,92 @@
+* {
+  background-color: #000 !important;
+  color: #fff;
+}
+.for-sticky {
+  border-bottom: 1px solid #fff;
+}
+img {
+  filter: invert(100%);
+}
+#contact input,
+#contact textarea {
+  border-bottom: 1px solid #fff;
+}
+.bg-about img {
+  filter: invert(0%);
+}
+.label-form {
+  color: #fff !important;
+}
+#contact input[type="submit"] {
+  color: #fff !important;
+  border: 1px solid #fff !important;
+}
+#contact input[type="submit"]:hover {
+  background: #fff !important;
+  color: #000 !important;
+}
+.menu-button span {
+  background: #fff !important;
+}
+.zaslugi-header-1 a,
+h3 {
+  color: #fff !important;
+}
+.zaslugi-icons img {
+  padding: 0px;
+}
+.logo-nav {
+  padding-top: 0px;
+}
+.footer-logo-div img {
+  filter: invert(0%);
+}
+.toggle--daynight .toggle--btn {
+  border: 5px solid #fff;
+  background-color: #3c4145 !important;
+}
+.title-small span:after {
+  background: #000;
+}
+.card {
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+.zaslugi-icons-footer img {
+  filter: invert(0%);
+}
+.social-icons img {
+  filter: invert(0%);
+}
+.desc {
+  color: #fff !important;
+}
+.portfolio-image img {
+  filter: invert(100%) !important;
+}
+.col-md-3 img {
+  z-index: 1;
+}
+ul.portfolio-image li .decription-wrap:hover {
+  z-index: 9999;
+}
+li.col-md-3 img:hover {
+  z-index: 0;
+}
+.p-pu {
+  color: #fff;
+}
+.number-pu {
+  color: #fff !important;
+  border: 1px solid #fff !important;
+}
+.number-pu:hover {
+  background: #fff !important;
+  color: #000 !important;
+}
+.logo-popup {
+  width: 250px;
+  display: block;
+  padding: 0;
+  filter: invert(100%);
+}
